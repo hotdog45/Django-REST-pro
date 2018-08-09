@@ -89,27 +89,7 @@ WSGI_APPLICATION = 'SXShop.wsgi.application'
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
 
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'restful',
-#         'USER':'root',
-#         'PASSWORD':'2106862.',
-#         'HOST':'localhost',
-#         'PSRT':'3306'
-#     }
-# }
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'shop',
-        'USER':'root',
-        'PASSWORD':'123456',
-        'HOST':'39.106.166.176',
-        'PSRT':'3306'
-    }
-}
 
 # Password validation
 # https://docs.djangoproject.com/en/2.0/ref/settings/#auth-password-validators
