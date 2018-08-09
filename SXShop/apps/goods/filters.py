@@ -4,7 +4,7 @@ __author__ = 'bobby'
 import django_filters
 from django.db.models import Q
 
-from .models import Goods
+from goods.models import Goods
 
 
 class GoodsFilter(django_filters.rest_framework.FilterSet):

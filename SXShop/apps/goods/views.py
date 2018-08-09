@@ -9,9 +9,8 @@ from rest_framework import filters
 from rest_framework.pagination import PageNumberPagination
 
 
-from .serializers import GoodsSerializers
-from .models import Goods
-from .filters import GoodsFilter
+from goods.serializers import GoodsSerializers
+from goods.models import Goods
 
 
 class GoodsPagination(PageNumberPagination):

@@ -24,7 +24,7 @@ from rest_framework.documentation import include_docs_urls
 # import xadmin
 
 
-from apps.goods.views import GoodsListViews
+from goods.views import GoodsListViews
 
 router = DefaultRouter()
 

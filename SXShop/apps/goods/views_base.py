@@ -5,7 +5,7 @@ __author__ = 'lishunfeng'
 
 from django.views.generic.base import View
 from django.views.generic import ListView
-from .models import Goods
+from goods.models import Goods
 from django.forms.models import model_to_dict
 
 

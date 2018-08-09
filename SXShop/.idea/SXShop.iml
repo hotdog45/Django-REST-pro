@@ -15,7 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/apps" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/extra_apps" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Remote Python 3.5.2 (ssh://lsf@39.106.166.176:22/home/lsf/work/python/envShop/bin/python3.5)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6.3 virtualenv at ~/work/python-pro/vueshop (1)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
