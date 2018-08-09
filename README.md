@@ -1,2 +1,2 @@
 # Djangotest3
-Django小项目练习
+Django REST ful小项目练习
