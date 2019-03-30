@@ -1,4 +1,4 @@
-django==1.11.3
+django>=1.11.19
 pillow
 mysqlclient
 djangorestframework==3.8.0
